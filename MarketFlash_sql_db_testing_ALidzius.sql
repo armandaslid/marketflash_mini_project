@@ -78,9 +78,9 @@ VALUES
 -- Some queries and joins to see if it works
 
 SELECT  campaigns.campaign_id
-		,employees.name
-		,departments.department_name
-		,campaigns.conversions 
+	,employees.name
+	,departments.department_name
+	,campaigns.conversions 
 FROM campaigns
 JOIN employees ON campaigns.executive = employees.emp_id
 JOIN departments ON employees.department_id = departments.department_id 
@@ -89,9 +89,9 @@ ORDER BY 1
 ;
 
 SELECT  audiences.audience_name
-		,clients.company_name 
-		,clients.phone
-		,clients.contact_person
+	,clients.company_name 
+	,clients.phone
+	,clients.contact_person
 FROM audiences
 JOIN campaigns ON audiences.audience_id = campaigns.audience_id
 JOIN clients ON campaigns.client_id = clients.client_id
