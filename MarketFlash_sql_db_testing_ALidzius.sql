@@ -1,4 +1,4 @@
--- Inserting some random data to chech if our Database works
+-- Inserting some random data to check if our Database works
 
 INSERT INTO channels (channel_id, channel_name, channel_description)
 VALUES
