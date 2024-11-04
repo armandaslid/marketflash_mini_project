@@ -9,3 +9,13 @@
 - [Data](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_Data_01.png) and [Column info](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_Data_02.png)
 - [Entities](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_Entities.png)
 - [Relationships](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_Relationships.png)
+
+### Provided Data:
+- [Employee Data (2023)](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_employee_data_2023.csv)
+- [Marketing Data (2023)](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_marketing_data_2023.csv)
+
+## *Results*:
+- [Entity Relationship Diagram](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_ERD_ALidzius.pdf)
+- [SQL Code: Creating the Database]()
+- [SQL Code: Testing the Database]()
+- [Tableau Dashboard]()
