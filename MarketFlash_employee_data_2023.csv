@@ -1,0 +1,32 @@
+Name,Address,Phone,Email,Department,Supervisor
+Aaron Faulkner,"123 Maple St, Springfield",555-123-4567,aaron.faulkner@example.com,Media,Markus Callahan
+Becky Brown,"456 Oak St, Rivertown",555-234-5678,becky.brown@example.com,Media,Markus Callahan
+Brandon Townsend Jr.,"789 Pine St, Hillside",555-345-6789,brandon.townsend@example.com,Media,Becky Brown
+Jesus Rivera,"101 Cedar St, Greenfield",555-456-7890,jesus.rivera@example.com,Media,Aaron Faulkner
+Kyle Serrano,"202 Birch St, Lakeside",555-567-8901,kyle.serrano@example.com,Media,Markus Callahan
+Lauren Riggs,"303 Elm St, Brookville",555-678-9012,lauren.riggs@example.com,Media,Becky Brown
+Melissa Haynes,"404 Spruce St, Mountaintown",555-789-0123,melissa.haynes@example.com,Media,Kyle Serrano
+Michael Camacho,"505 Walnut St, Rivertown",555-890-1234,michael.camacho@example.com,Media,Kyle Serrano
+Thomas Ryan,"606 Willow St, Meadowbrook",555-901-2345,thomas.ryan@example.com,Media,Aaron Faulkner
+Wesley Simon,"707 Ash St, Ridgewood",555-012-3456,wesley.simon@example.com,Media,Becky Brown
+Ashley Johnson,"808 Pine St, Hillside",555-123-4567,ashley.johnson@example.com,Design,Frank Rodriguez
+Brian Miller,"909 Cedar St, Greenfield",555-234-5678,brian.miller@example.com,Design,Frank Rodriguez
+Chelsea Carter,"1010 Birch St, Lakeside",555-345-6789,chelsea.carter@example.com,Design,Liam Stewart
+David Thompson,"1111 Elm St, Brookville",555-456-7890,david.thompson@example.com,Design,Frank Rodriguez
+Emily Martinez,"1212 Spruce St, Mountaintown",555-567-8901,emily.martinez@example.com,Design,Liam Stewart
+Frank Rodriguez,"1313 Walnut St, Rivertown",555-678-9012,frank.rodriguez@example.com,Design,Markus Callahan
+Grace Lee,"1414 Willow St, Meadowbrook",555-789-0123,grace.lee@example.com,Design,Frank Rodriguez
+Henry Nguyen,"1515 Ash St, Ridgewood",555-890-1234,henry.nguyen@example.com,Design,Liam Stewart
+Isabella King,"1616 Maple St, Springfield",555-901-2345,isabella.king@example.com,Design,Frank Rodriguez
+Jacob Garcia,"1717 Oak St, Rivertown",555-012-3456,jacob.garcia@example.com,Design,Liam Stewart
+Katherine Scott,"1818 Pine St, Hillside",555-123-4567,katherine.scott@example.com,Design,Liam Stewart
+Liam Stewart,"1919 Cedar St, Greenfield",555-234-5678,liam.stewart@example.com,Design,Markus Callahan
+Natalie Turner,"2020 Birch St, Lakeside",555-345-6789,natalie.turner@example.com,Design,Liam Stewart
+Olivia Hill,"2121 Elm St, Brookville",555-456-7890,olivia.hill@example.com,Design,Liam Stewart
+Patrick Young,"2222 Spruce St, Mountaintown",555-567-8901,patrick.young@example.com,Design,Frank Rodriguez
+Quinn Evans,"2323 Walnut St, Rivertown",555-678-9012,quinn.evans@example.com,Admin,Taylor Ramirez
+Rachel Cooper,"2424 Willow St, Meadowbrook",555-789-0123,rachel.cooper@example.com,Admin,Taylor Ramirez
+Samuel Morgan,"2525 Ash St, Ridgewood",555-890-1234,samuel.morgan@example.com,Admin,Taylor Ramirez
+Taylor Ramirez,"2626 Maple St, Springfield",555-901-2345,taylor.ramirez@example.com,Admin,Markus Callahan
+Victoria Brooks,"2727 Oak St, Rivertown",555-012-3456,victoria.brooks@example.com,Admin,Taylor Ramirez
+Markus Callahan,"0000 Unknown, Unknown",555-000-0000,uknown@unknown.com,Unknown,Markus Callahan
