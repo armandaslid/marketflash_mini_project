@@ -16,6 +16,6 @@
 
 ## *Results*:
 - [Entity Relationship Diagram](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_ERD_ALidzius.pdf)
-- [SQL Code: Creating the Database]()
+- [SQL Code: Creating the Database](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_sql_db_creation.sql)
 - [SQL Code: Testing the Database]() NOT READY
 - [Tableau Dashboard]() NOT READY
