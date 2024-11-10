@@ -19,4 +19,4 @@
 - [SQL Code: Creating the Database](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_sql_db_creation_ALidzius.sql)
 - [SQL Code: Testing the Database](https://github.com/armandaslid/marketflash_mini_project/blob/main/MarketFlash_sql_db_testing_ALidzius.sql)
 - [MarketFlash Campaign Dashboard (Tableau Public)](https://public.tableau.com/app/profile/armandas.lidzius/viz/MarketFlashCampaignDashboard/MARKETFLASH)
-- [Video Presentation of a MarketFlash Mini Project](https://www.loom.com/share/3c8e5b7ddd224e05b8e9c01ce8cc7fd1?sid=7ce73f98-def2-4b95-85aa-8bf3f4b67558)
+- [Video Presentation of a MarketFlash Mini Project](https://www.loom.com/share/3c8e5b7ddd224e05b8e9c01ce8cc7fd1?sid=36760db6-d77f-4eaa-82a1-c37bd898dda2)
